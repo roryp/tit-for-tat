@@ -1,11 +1,10 @@
 # Game Theory - Tit-for-Tat
 
-
 🎮 **The Intriguing World of Game Theory Through "Tit for Tat"** 🕹️
 
 Ever wondered what game theory is all about? Let's dive into the fascinating world of strategic decision-making with a simple, yet profound game called "Tit for Tat." Imagine a universe where your fate in a game isn't just about luck, but about predicting and reacting to your opponent's moves. Welcome to game theory - the science of strategy, where every player is a mastermind! 🧠
 
-### The Game: Tit for Tat 🤝
+## The Game: Tit for Tat 🤝
 
 At the heart of our exploration is a Python project on GitHub, "Tit for Tat," which brilliantly encapsulates the essence of game theory. This game pits two players against each other, each employing different strategies to outsmart the other. One embraces the 'tit-for-tat' approach, mirroring every move of their opponent. The other, a wild card, chooses randomly. It's like rock-paper-scissors but with a PhD in psychology!
 
