@@ -22,10 +22,6 @@ Beyond the thrill of the game, "Tit for Tat" serves as a microcosm of game theor
 
 So, the next time you're faced with a strategic decision, remember the lessons from "Tit for Tat." Perhaps, a dash of predictability combined with a sprinkle of spontaneity could be your winning formula!
 
-### Let's Play! 🚀
-
-Curious to experience the game yourself? Dive into the GitHub repository [roryp/tit-for-tat](https://github.com/roryp/tit-for-tat) and see where your strategy takes you. Who knows, you might just discover the game theorist in you!
-
 ## Prerequisites
 
 Before running the program, make sure you have the following installed:
