@@ -34,7 +34,7 @@ Before running the program, make sure you have the following installed:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/tit-for-tat.git
+    git clone https://github.com/roryp/tit-for-tat.git
     ```
 
 2. Navigate to the project directory:
